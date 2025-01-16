@@ -1,4 +1,10 @@
-<h1 align="center">FRC Team 4079's GitHub</h1>
+<div align="center">
+
+  
+  <h1>Welcome to FRC Team 4079!</h1>
+</div>
+
+<h3 align="center">Welcome! This is the github for OA Robotics and Team 4079 - Quantum Leap. Take a look at all our repositories where we store our code in.</h3>
 
 <br><br>
 
@@ -10,10 +16,10 @@ If you wish to change the size, you can change the width by adjusting the width 
 Don't forget to update the alt tag with the actual repository name (for example, "Swerve Base Template"
 -->
 <div align="center">
-  <a href="https://github.com/Team4079/SwerveBaseTemplate" target="_blank">
-    <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=Team4079&repo=SwerveBaseTemplate&theme=dark" width="45%" alt="Swerve Base Template"/>
-  </a>
   <a href="https://github.com/Team4079/Reefscape2025" target="_blank">
     <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=Team4079&repo=Reefscape2025&theme=dark" width="45%" alt="Reefscape 2025"/>
+  </a>
+  <a href="https://github.com/Team4079/SwerveBaseTemplate" target="_blank">
+    <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=Team4079&repo=SwerveBaseTemplate&theme=dark" width="45%" alt="Swerve Base Template"/>
   </a>
 </div>
