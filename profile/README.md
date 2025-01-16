@@ -1,6 +1,6 @@
 <div align="center">
-
-  
+  <img src="/assets/4079Logo_Transparent.webp" width="200" />
+  <img src="/assets/FRCLogo_Transparent.png" width="200" />
   <h1>Welcome to FRC Team 4079!</h1>
 </div>
 
