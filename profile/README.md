@@ -22,9 +22,8 @@ Don't forget to update the alt tag with the actual repository name (for example,
 -->
 
 <h2 align="center">2025 Season</h2>
-
 <div align="center">
-  <a href="https://github.com/Team4079/Reefscape2025" target="_blank">
+  <a href="https://github.com/Team4079/Reefscape-2025" target="_blank">
     <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=Team4079&repo=Reefscape2025&theme=github_dark" width="40%" alt="Reefscape 2025"/>
   </a>
   
@@ -40,7 +39,7 @@ Don't forget to update the alt tag with the actual repository name (for example,
 <h2 align="center">2024 Season</h2>
 
 <div align="center">
-  <a href="https://github.com/Team4079/Crescendo2024" target="_blank">
+  <a href="https://github.com/Team4079/Crescendo-2024" target="_blank">
     <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=Team4079&repo=Crescendo2024&theme=github_dark" width="40%" alt="Crescendo 2024"/>
   </a>
   
@@ -100,32 +99,31 @@ Don't forget to update the alt tag with the actual repository name (for example,
 <h2 align="center">Pre-2020 Seasons</h2>
 
 <div align="center">
-  <a href="https://github.com/Team4079/DeepSpace_CompetitionBase" target="_blank">
+  <a href="https://github.com/Team4079/Deep-Space-2019" target="_blank">
     <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=Team4079&repo=DeepSpace_CompetitionBase&theme=github_dark" width="33%" alt="DeepSpace Competition Base"/>
   </a>
   
-  <a href="https://github.com/Team4079/PowerUp" target="_blank">
-    <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=Team4079&repo=PowerUp&theme=github_dark" width="33%" alt="PowerUp"/>
+  <a href="https://github.com/Team4079/Power-Up-2018" target="_blank">
+    <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=Team4079&repo=Power-Up-2018&theme=github_dark" width="33%" alt="Power Up 2018"/>
   </a>
 
-  <a href="https://github.com/Team4079/2017Steamworks" target="_blank">
-    <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=Team4079&repo=2017Steamworks&theme=github_dark" width="33%" alt="2017 Steamworks"/>
+  <a href="https://github.com/Team4079/Steamworks-2017" target="_blank">
+    <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=Team4079&repo=Steamworks-2017&theme=github_dark" width="33%" alt="Steamworks 2017"/>
   </a>
 
-  <a href="https://github.com/Team4079/2016Stronghold" target="_blank">
-    <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=Team4079&repo=2016Stronghold&theme=github_dark" width="33%" alt="2016 Stronghold"/>
+  <a href="https://github.com/Team4079/Stronghold-2016" target="_blank">
+    <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=Team4079&repo=Stronghold-2016&theme=github_dark" width="33%" alt="Stronghold 2016"/>
   </a>
 
-  <a href="https://github.com/Team4079/2015GantryBot" target="_blank">
-    <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=Team4079&repo=2015GantryBot&theme=github_dark" width="33%" alt="2015 Gantry Bot"/>
+  <a href="https://github.com/Team4079/Recycle-Rush-2015" target="_blank">
+    <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=Team4079&repo=Recycle-Rush-2015&theme=github_dark" width="33%" alt="Recycle Rush 2015"/>
   </a>
   
-  <a href="https://github.com/Team4079/2014AscentRedux" target="_blank">
-    <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=Team4079&repo=2014AscentRedux&theme=github_dark" width="33%" alt="2014 Ascent Redux"/>
+  <a href="https://github.com/Team4079/Aerial-Assist-2014" target="_blank">
+    <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=Team4079&repo=Aerial-Assist-2014&theme=github_dark" width="33%" alt="Ascent Redux 2014"/>
   </a>
   
-  <a href="https://github.com/Team4079/2013QuantumLeap" target="_blank">
-    <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=Team4079&repo=2013QuantumLeap&theme=github_dark" width="33%" alt="2013 Quantum Leap"/>
+  <a href="https://github.com/Team4079/Ultimate-Ascent-2013" target="_blank">
+    <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=Team4079&repo=Ultimate-Ascent-2013&theme=github_dark" width="33%" alt="Ultimate Ascent 2013"/>
   </a>
 </div>
-
