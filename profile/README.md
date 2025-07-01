@@ -4,7 +4,7 @@
   <h1>Welcome to FRC Team 4079!</h1>
 </div>
 
-<h3 align="center">Welcome! This is the Github for OA Robotics's Team 4079 - Quantum Leap. Take a look at all our repositories where we store our code in, as well as our website!</h3>
+<h3 align="center">Welcome! This is the Github for OA Robotics's FRC 4079 - Quantum Leap. Take a look at all our repositories where we store our code in, as well as our website!</h3>
 
 <div align="center">
   <a href="https://oarobotics.org/">OA Robotics Website
