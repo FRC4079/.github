@@ -28,7 +28,9 @@ Don't forget to update the alt tag with the actual repository name (for example,
   <a href="https://github.com/FRC4079/Reefscape-2025" target="_blank">
     <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=FRC4079&repo=Reefscape-2025&theme=github_dark" width="40%" alt="Reefscape 2025"/>
   </a>
-  
+  <a href="https://github.com/FRC4079/Reefscape-2025-Offseason" target="_blank">
+    <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=FRC4079&repo=Reefscape-2025-Offseason&theme=github_dark" width="40%" alt="Reefscape 2025 Offseason"/>
+  </a>
   <a href="https://github.com/FRC4079/SwerveBaseTemplate" target="_blank">
     <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=FRC4079&repo=SwerveBaseTemplate&theme=github_dark" width="40%" alt="Swerve Base Template"/>
   </a>
