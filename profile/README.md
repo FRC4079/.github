@@ -23,6 +23,15 @@ If you wish to change the size, you can change the width by adjusting the width 
 Don't forget to update the alt tag with the actual repository name (for example, "Swerve Base Template"
 -->
 
+<h2 align="center">Swerve Drive Template Code</h2>
+<div align="center">
+  <a href="https://github.com/FRC4079/SwerveBaseTemplate" target="_blank">
+    <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=FRC4079&repo=SwerveBaseTemplate&theme=github_dark" width="60%" alt="Swerve Base Template"/>
+  </a>
+</div>
+
+<br/>
+
 <h2 align="center">2025 Season</h2>
 <div align="center">
   <a href="https://github.com/FRC4079/Reefscape-2025" target="_blank">
@@ -31,14 +40,11 @@ Don't forget to update the alt tag with the actual repository name (for example,
   <a href="https://github.com/FRC4079/Reefscape-2025-Offseason" target="_blank">
     <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=FRC4079&repo=Reefscape-2025-Offseason&theme=github_dark" width="40%" alt="Reefscape 2025 Offseason"/>
   </a>
-  <a href="https://github.com/FRC4079/SwerveBaseTemplate" target="_blank">
-    <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=FRC4079&repo=SwerveBaseTemplate&theme=github_dark" width="40%" alt="Swerve Base Template"/>
-  </a>
 </div>
 
-<h1 align="center">Previous Repos</h1>
-
 <br/>
+
+<h1 align="center">Previous Repos</h1>
 
 <h2 align="center">2024 Season</h2>
 
