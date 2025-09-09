@@ -56,10 +56,6 @@ Don't forget to update the alt tag with the actual repository name (for example,
   <a href="https://github.com/FRC4079/Practice-Bot-2024" target="_blank">
     <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=FRC4079&repo=Practice-Bot-2024&theme=github_dark" width="40%" alt="Practice Bot 2024"/>
   </a>
-  
-  <a href="https://github.com/FRC4079/SwerveBaseTemplate" target="_blank">
-    <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=FRC4079&repo=SwerveBaseTemplate&theme=github_dark" width="40%" alt="Swerve Base Template"/>
-  </a>
 </div>
 
 <h2 align="center">2023 Season</h2>
