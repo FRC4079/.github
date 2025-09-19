@@ -65,8 +65,8 @@ Don't forget to update the alt tag with the actual repository name (for example,
     <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=FRC4079&repo=Charged-Up-2023&theme=github_dark" width="40%" alt="Charged Up 2023"/>
   </a>
 
-  <a href="https://github.com/FRC4079/ChargedUpSwerve" target="_blank">
-    <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=FRC4079&repo=ChargedUpSwerve&theme=github_dark" width="40%" alt="Charged Up Swerve"/>
+  <a href="https://github.com/FRC4079/FRC-Swerve-Template-2023" target="_blank">
+    <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=FRC4079&repo=FRC-Swerve-Template-2023&theme=github_dark" width="40%" alt="FRC Swerve Template 2023"/>
   </a>
 </div>
 
