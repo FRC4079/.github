@@ -30,7 +30,19 @@ Don't forget to update the alt tag with the actual repository name (for example,
   </a>
 </div>
 
+
 <br/>
+
+<h2 align="center">2026 Season</h2>
+<div align="center">
+  <a href="https://github.com/FRC4079/Rebuilt-2026" target="_blank">
+    <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=FRC4079&repo=Rebuilt-2026&theme=github_dark" width="40%" alt="Rebuilt 2026"/>
+  </a>
+</div>
+
+<br/>
+
+<h1 align="center">Previous Repos</h1>
 
 <h2 align="center">2025 Season</h2>
 <div align="center">
@@ -41,10 +53,6 @@ Don't forget to update the alt tag with the actual repository name (for example,
     <img src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/pin/?username=FRC4079&repo=Reefscape-2025-Offseason&theme=github_dark" width="40%" alt="Reefscape 2025 Offseason"/>
   </a>
 </div>
-
-<br/>
-
-<h1 align="center">Previous Repos</h1>
 
 <h2 align="center">2024 Season</h2>
 
