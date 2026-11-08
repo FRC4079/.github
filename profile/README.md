@@ -37,6 +37,9 @@ Don't forget to update the alt tag with the actual repository name (for example,
   <a href="https://github.com/FRC4079/Rebuilt-2026" target="_blank">
     <img src="https://readme-lang-a4i1owqgi-envidtechs-projects.vercel.app/api/pin/?username=FRC4079&repo=Rebuilt-2026&theme=github_dark" width="40%" alt="Rebuilt 2026"/>
   </a>
+  <a href="https://github.com/FRC4079/Rebuilt-2026-Offseason" target="_blank">
+    <img src="https://readme-lang-a4i1owqgi-envidtechs-projects.vercel.app/api/pin/?username=FRC4079&repo=Rebuilt-2026-Offseason&theme=github_dark" width="40%" alt="Rebuilt 2026 Offseason"/>
+  </a>
 </div>
 
 <h1 align="center">Previous Repos</h1>
